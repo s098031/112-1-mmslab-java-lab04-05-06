@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    namespace = "com.example.a112_1_mmslab_java_lab04_05_06"
-    compileSdk = 33
+    namespace = "com.example.a112_1_mmslab_java_lab05"
+    compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.a112_1_mmslab_java_lab04_05_06"
-        minSdk = 30
+        applicationId = "com.example.a112_1_mmslab_java_lab05"
+        minSdk = 24
         targetSdk = 33
         versionCode = 1
         versionName = "1.0"
@@ -34,7 +34,7 @@ android {
 dependencies {
 
     implementation("androidx.appcompat:appcompat:1.6.1")
-    implementation("com.google.android.material:material:1.9.0")
+    implementation("com.google.android.material:material:1.10.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")

@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "112-1-mmslab-java-lab04-05-06"
+rootProject.name = "112-1-mmslab-java-lab05"
 include(":app")
  

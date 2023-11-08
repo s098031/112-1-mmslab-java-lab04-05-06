@@ -1,4 +1,4 @@
-package com.example.a112_1_mmslab_java_lab04_05_06;
+package com.example.a112_1_mmslab_java_lab05;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.a112_1_mmslab_java_lab04_05_06", appContext.getPackageName());
+        assertEquals("com.example.a112_1_mmslab_java_lab05", appContext.getPackageName());
     }
 }

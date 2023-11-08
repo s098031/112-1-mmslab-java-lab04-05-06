@@ -1,4 +1,4 @@
-package com.example.a112_1_mmslab_java_lab04_05_06;
+package com.example.a112_1_mmslab_java_lab05;
 
 import org.junit.Test;
 
